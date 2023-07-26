@@ -15,7 +15,7 @@
 |                           |       JavaScript         |                    |     SQL             |      Portainer    |                  |
 |                           |       TypeScript         |                    |     PL/SQL          |                   |                  |
 |                           |       NestJs             |                    |     GraphQL         |                   |                  |
-|                           |                          |                    |     TypeORM         |                   |                  |     
+|                           |       FastApi            |                    |     TypeORM         |                   |                  |     
 |                           |                          |                    |     Sequelize       |                   |                  | 
 |                           |                          |                    |     Prisma          |                   |                  |
 |                           |                          |                    |     SQLAlchemy      |                   |                  |

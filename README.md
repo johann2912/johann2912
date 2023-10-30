@@ -5,7 +5,7 @@
 
 ## Technologies
 
-|           Frontend        |       Backend            |       Cloud        |     Databases       |      CI/CD        |     Testing      |
+|           Frontend        |   Backend & Frameworks   |       Cloud        |     Databases       |      CI/CD        |     Testing      |
 |:-------------------------:|:------------------------:|:------------------:|:-------------------:|:-----------------:|:----------------:|
 |            Angular        |       Node.js            |        AWS         |     NoSQL           |      Docker       |      Jest        |
 |            React          |       Python             |                    |     Redis           |      SonnarQube   |      Mocha       |
